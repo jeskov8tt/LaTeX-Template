@@ -42,5 +42,19 @@
 	"editor.formatOnSave": true,
 	"latex-workshop.latex.pdfWatch.delay": 500,
 	//"latex-workshop.latex.watch.delay": 500, // Deprecated. See here: https://github.com/sanjib-sen/WebLaTex/issues/8
-	"latex-workshop.codespaces.portforwarding.openDelay": 20000
+	"latex-workshop.codespaces.portforwarding.openDelay": 20000,
+	"editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "git.enableSmartCommit": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Monokai Night",
+    "editor.fontSize": 18,
+    "workbench.colorCustomizations": {
+        "[Monokai Night]": {
+            "statusBar.background": "#000000",
+            "editor.background": "#000000",
+            "editorGutter.background": "#000000"
+        }
+    },
+    "workbench.startupEditor": "none"
 }
