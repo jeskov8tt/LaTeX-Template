@@ -13,6 +13,7 @@
 			"\\usepackage{titlesec}\r",
 			"\\usepackage{xfrac}\r",
 			"\\setcounter{secnumdepth}{4}\r",
+			"\\usepackage{hyperref}\r",
 			"\r",
 			"\\titleformat{\\paragraph}\r",
 			"{\\normalfont\\normalsize\\bfseries}{\\theparagraph}{1em}{}\r",
